@@ -1,4 +1,3 @@
-def checaridade():
   nome = input ("Digite seu nome: ")
   idade = input ("Digite sua idade: ")
 
@@ -9,7 +8,7 @@ def checaridade():
     print (f"{nome}, você é menor de idade.")
 
 def maior_menor():
-  numeros = [] #creating a list to store the numbers
+  numeros = [] #cria uma lista vazia
   nummaior = 0
   nummenor = 1000
   for i in range(5): #repetir 5 vezes
