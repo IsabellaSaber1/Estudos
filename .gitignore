@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.vscode/
+.env
+*.log
+*.db
+.DS_Store
+# caches e configs do sistema (evitar subir home inteiro)
+.cache/
+.config/
+.local/
