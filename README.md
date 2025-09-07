@@ -1,19 +1,15 @@
-# 🐍 Funções de Estudo em Python
+# 🐍 Estudos
 
-![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white)
-
-Este repositório contém **duas funções simples para prática de lógica em Python**.
+Repositório monorepo com exercícios em Python organizados por categoria. Cada pasta contém scripts e um README próprio para descrever os desafios e exemplos de execução.
 
 ---
 
-## 🔹 Funções
+## Sumário
 
-### 1. `checaridade()`
-- Solicita o **nome** e **idade** do usuário.
-- Verifica se o usuário é **maior ou menor de idade**.
+- [condicionais](./condicionais)  
+- [loops](./loops)  
+- [estruturas_de_dados](./estruturas_de_dados)  
+- [utilidades](./utilidades)  
 
-### 2. `maior_menor()`
-- Solicita **5 diferentes números** do usuário.
-- Retorna a **soma** e **o maior** dos 5 números.
-
+---
 
