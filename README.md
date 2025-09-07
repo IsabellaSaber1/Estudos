@@ -6,7 +6,7 @@ Repositório monorepo com exercícios em Python organizados por categoria. Cada 
 
 ## Sumário
 
-- [condicionais](./condicionais)  
+- [Condicionais](./Condicionais)  
 - [loops](./loops)  
 - [estruturas_de_dados](./estruturas_de_dados)  
 - [utilidades](./utilidades)  
